@@ -21,7 +21,7 @@ Maintained by [HealthWorld](https://www.healthworldlabels.com), a site that comp
 | `protein_g_per_serving` | Grams of protein per serving, where the label states it |
 | `kcal_per_serving` | Calories per serving, where the label states it |
 | `protein_g_per_100_kcal` | Protein density, computed from the two columns above |
-| `label_facts` | The headline facts as printed, separated by ` | ` (for example `Creatine: 5 g | Form: Monohydrate`) |
+| `label_facts` | The headline facts as printed, separated by a vertical bar (for example `Creatine: 5 g \| Form: Monohydrate`) |
 | `certifications` | Third-party marks printed on the pack (NSF Certified for Sport, USP, USDA Organic), empty when none |
 | `url` | The product's page with its full label |
 | `source` | Where the numbers come from |
