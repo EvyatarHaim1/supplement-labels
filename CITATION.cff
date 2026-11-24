@@ -13,6 +13,7 @@ abstract: >-
 version: "2026.11.24"
 date-released: "2026-11-24"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24506859"
 url: "https://www.healthworldlabels.com/data/supplement-labels"
 repository: "https://github.com/EvyatarHaim1/supplement-labels"
 keywords:

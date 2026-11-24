@@ -1,5 +1,7 @@
 # Supplement label dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24506859.svg)](https://doi.org/10.5281/zenodo.24506859)
+
 Label facts of 201 best-selling supplements and 99 protein bar flavors, copied by hand from the Supplement Facts and Nutrition Facts panels: protein per serving, calories, protein per 100 kcal, the doses printed for creatine, magnesium, vitamin D, omega-3 and others, and the third-party certifications printed on the pack.
 
 Maintained by [HealthWorld](https://www.healthworldlabels.com), a site that compares supplements by what their labels say. The live table, with every product's full label, is at [healthworldlabels.com/data/supplement-labels](https://www.healthworldlabels.com/data/supplement-labels).
@@ -34,7 +36,7 @@ The method is described at [healthworldlabels.com/how-we-pick](https://www.healt
 
 ## How to cite
 
-HealthWorld (2026). *Supplement label dataset* [Data set]. https://github.com/EvyatarHaim1/supplement-labels. Licensed CC BY 4.0. A machine-readable citation is in `CITATION.cff`.
+HealthWorld (2026). *Supplement label dataset* [Data set]. Zenodo. https://doi.org/10.5281/zenodo.24506859. Licensed CC BY 4.0. A machine-readable citation is in `CITATION.cff`.
 
 ## Updates
 
