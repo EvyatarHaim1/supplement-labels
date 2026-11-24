@@ -1,6 +1,6 @@
 # Supplement label dataset
 
-Label facts of 180 best-selling supplements and 99 protein bar flavors, copied by hand from the Supplement Facts and Nutrition Facts panels: protein per serving, calories, protein per 100 kcal, the doses printed for creatine, magnesium, vitamin D, omega-3 and others, and the third-party certifications printed on the pack.
+Label facts of 201 best-selling supplements and 99 protein bar flavors, copied by hand from the Supplement Facts and Nutrition Facts panels: protein per serving, calories, protein per 100 kcal, the doses printed for creatine, magnesium, vitamin D, omega-3 and others, and the third-party certifications printed on the pack.
 
 Maintained by [HealthWorld](https://www.healthworldlabels.com), a site that compares supplements by what their labels say. The live table, with every product's full label, is at [healthworldlabels.com/data/supplement-labels](https://www.healthworldlabels.com/data/supplement-labels).
 
@@ -8,7 +8,7 @@ Maintained by [HealthWorld](https://www.healthworldlabels.com), a site that comp
 
 | File | What it holds |
 |---|---|
-| `supplement-labels.csv` | One row per product or bar flavor (279 rows), UTF-8, comma separated |
+| `supplement-labels.csv` | One row per product or bar flavor (300 rows), UTF-8, comma separated |
 
 ## Columns
 
@@ -28,9 +28,17 @@ Maintained by [HealthWorld](https://www.healthworldlabels.com), a site that comp
 
 ## How the numbers are collected
 
-Every number is read off the label of the product as sold in the United States, from the brand's own page or Open Food Facts. HealthWorld does not run a lab and does not test products; this dataset says what the label prints, nothing more. Formulas and flavors change, so check the pack you buy.
+Every number is read off the label of the product as sold in the United States, from the brand's own page, the NIH Dietary Supplement Label Database (DSLD) or Open Food Facts. HealthWorld does not run a lab and does not test products; this dataset says what the label prints, nothing more. Formulas and flavors change, so check the pack you buy.
 
 The method is described at [healthworldlabels.com/how-we-pick](https://www.healthworldlabels.com/how-we-pick).
+
+## How to cite
+
+HealthWorld (2026). *Supplement label dataset* [Data set]. https://github.com/EvyatarHaim1/supplement-labels. Licensed CC BY 4.0. A machine-readable citation is in `CITATION.cff`.
+
+## Updates
+
+The file is refreshed from the live table when products are added or a label changes. This version: November 24, 2026 (201 supplements, 99 bar flavors).
 
 ## Licence
 

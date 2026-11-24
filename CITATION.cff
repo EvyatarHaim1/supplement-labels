@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Supplement label dataset: label facts of 201 best-selling supplements and 99 protein bar flavors"
+authors:
+  - name: "HealthWorld"
+    website: "https://www.healthworldlabels.com"
+abstract: >-
+  Label facts read off the Supplement Facts and Nutrition Facts panels of best-selling US supplements and protein
+  bars: protein and calories per serving, protein per 100 kcal, the doses printed for creatine, magnesium, vitamin D,
+  omega-3 and others, and the third-party certifications printed on the pack. Sources are the brand's own page, the
+  NIH Dietary Supplement Label Database (DSLD) or Open Food Facts. No lab testing.
+version: "2026.11.24"
+date-released: "2026-11-24"
+license: CC-BY-4.0
+url: "https://www.healthworldlabels.com/data/supplement-labels"
+repository: "https://github.com/EvyatarHaim1/supplement-labels"
+keywords:
+  - dietary supplements
+  - supplement facts
+  - nutrition labels
+  - protein
+  - protein bars
+  - creatine
+  - vitamins
+  - open data
